@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "NoxaPlus Invoice Desk — میز فاکتور",
+  "short_name": "NoxaPlus Invoice",
+  "description": "ساخت فاکتور فروش با پیش‌نمایش زندهٔ A4، لوگو، امضا و پرداخت نقد/چک/اقساط؛ کاملاً محلی.",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f0e9",
+  "theme_color": "#4338ca",
+  "icons": [
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "./icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
